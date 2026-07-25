@@ -10,6 +10,7 @@
 {"cat":"tool","title":"IP-Addrs","desc":"高精度IP地址归属地查询。","url":"http://ping0.cc/","isTop":true},
 {"cat":"ad","title":"Colab","desc":"谷歌云端 Python 代码笔记。","url":"https://colab.new/","hideOnMobile":true},
 {"cat":"tool","title":"BBN Speed Test","desc":"北京联通宽带测速。","url":"http://cs1.bbn.com.cn:8800/gzweb/","isTop":true},
+{"cat":"tool","title":"网站速度情况","desc":"站长工具查看网站。","url":"https://ping.chinaz.com/realfake.top","isTop":true},
 {"cat":"ad","title":"Cloud Studio","desc":"每天免费领2小时T4-GPU算力。","url":"https://cloudstudio.net/user-center","hideOnMobile":true},
 {"cat":"ad","title":"Detection Fake","desc":"腾讯朱雀文视图鉴伪。","url":"https://matrix.tencent.com/ai-detect/","hideOnMobile":true},
 
