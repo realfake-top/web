@@ -14,12 +14,10 @@
 {"cat":"ad","title":"Cloud Studio","desc":"每天免费领2小时T4-GPU算力。","url":"https://cloudstudio.net/user-center","hideOnMobile":true},
 {"cat":"ad","title":"Detection Fake","desc":"腾讯朱雀文视图鉴伪。","url":"https://matrix.tencent.com/ai-detect/","hideOnMobile":true},
 
-{"cat":"audio","title":"Whisper","desc":"开源语音转文字。","url":"https://huggingface.co/spaces/openai/whisper"},
 {"cat":"audio","title":"Radio","desc":"全球广播电台。","url":"https://radio.garden/","hideOnMobile":true},
 {"cat":"audio","title":"云听","desc":"中央广播电台。","url":"https://www.radio.cn/pc-portal/erji/radioStation.html","hideOnMobile":true},
 {"cat":"audio","title":"有声书","desc":"喜马拉雅有声故事。","url":"https://www.ximalaya.com/youshengshu/updates/","hideOnMobile":true},
 {"cat":"video","title":"央视新闻","desc":"央视频电视直播。","url":"https://www.yangshipin.cn/tv/home?pid=600001811","hideOnMobile":true},
 {"cat":"video","title":"虎牙直播","desc":"虎牙影视轮播。","url":"https://www.huya.com/g/2135"},
-{"cat":"video","title":"哔哩动漫","desc":"最新更新的动漫。","url":"https://www.bilibili.com/anime/index/?from_spmid=666.4.index.0#st=1&order=0&season_version=-1&spoken_language_type=-1&area=-1&is_finish=-1&copyright=-1&season_status=-1&season_month=-1&year=-1&style_id=-1&sort=0&page=1","hideOnMobile":true},
-{"cat":"video","title":"Wan2.2","desc":"开源在线首尾帧生成视频。","url":"https://huggingface.co/spaces/multimodalart/wan-2-2-first-last-frame"}
+{"cat":"video","title":"哔哩动漫","desc":"最新更新的动漫。","url":"https://www.bilibili.com/anime/index/?from_spmid=666.4.index.0#st=1&order=0&season_version=-1&spoken_language_type=-1&area=-1&is_finish=-1&copyright=-1&season_status=-1&season_month=-1&year=-1&style_id=-1&sort=0&page=1","hideOnMobile":true}
 ]
