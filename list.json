@@ -13,6 +13,9 @@
 {"cat":"tool","title":"网站速度情况","desc":"站长工具查看网站。","url":"https://ping.chinaz.com/realfake.top","isTop":true},
 {"cat":"ad","title":"Cloud Studio","desc":"每天免费领2小时T4-GPU算力。","url":"https://cloudstudio.net/user-center","hideOnMobile":true},
 {"cat":"ad","title":"Detection Fake","desc":"腾讯朱雀文视图鉴伪。","url":"https://matrix.tencent.com/ai-detect/","hideOnMobile":true},
+{"cat":"ad","title":"Detection Fake","desc":"游戏分享。","url":"https://www.gamer520.com/","hideOnMobile":true},
+{"cat":"ad","title":"Detection Fake","desc":"夸克分享。","url":"https://pan.quark.cn/s/5917a4d57c95","hideOnMobile":true},
+  
 
 {"cat":"audio","title":"Radio","desc":"全球广播电台。","url":"https://radio.garden/","hideOnMobile":true},
 {"cat":"audio","title":"云听","desc":"中央广播电台。","url":"https://www.radio.cn/pc-portal/erji/radioStation.html","hideOnMobile":true},
